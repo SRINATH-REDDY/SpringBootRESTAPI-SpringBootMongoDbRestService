@@ -9,3 +9,4 @@
 ![2020-04-05 (5)](https://user-images.githubusercontent.com/63153224/78505020-251de900-778e-11ea-9754-e15a317ab04f.png)
 ![2020-04-05 (6)](https://user-images.githubusercontent.com/63153224/78505061-729a5600-778e-11ea-830b-12e32fc751bf.png)
 #DELETEMETHOD
+![2020-04-05 (7)](https://user-images.githubusercontent.com/63153224/78505094-c311b380-778e-11ea-901f-293a95bf83fa.png)
