@@ -1,5 +1,5 @@
 # MongoDB Atlas with Spring Boot
-#TASK1
+
 #GETMETHOD
 ![2020-04-05 (1)](https://user-images.githubusercontent.com/63153224/78504792-e0de1900-778c-11ea-9edc-188aba2d04a2.png)
 ![2020-04-05 (2)](https://user-images.githubusercontent.com/63153224/78504927-9f9a3900-778d-11ea-8af6-fcc19602f580.png)
@@ -7,4 +7,5 @@
 #PUTMETHOD
 ![2020-04-05 (4)](https://user-images.githubusercontent.com/63153224/78504980-ebe57900-778d-11ea-97aa-931babd74e6e.png)
 ![2020-04-05 (5)](https://user-images.githubusercontent.com/63153224/78505020-251de900-778e-11ea-9754-e15a317ab04f.png)
-
+![2020-04-05 (6)](https://user-images.githubusercontent.com/63153224/78505061-729a5600-778e-11ea-830b-12e32fc751bf.png)
+#DELETEMETHOD
