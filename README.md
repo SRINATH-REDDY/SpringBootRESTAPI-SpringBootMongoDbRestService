@@ -6,3 +6,5 @@
 ![2020-04-05 (3)](https://user-images.githubusercontent.com/63153224/78504949-c0628e80-778d-11ea-8b06-8ec270339b17.png)
 #PUTMETHOD
 ![2020-04-05 (4)](https://user-images.githubusercontent.com/63153224/78504980-ebe57900-778d-11ea-97aa-931babd74e6e.png)
+![2020-04-05 (5)](https://user-images.githubusercontent.com/63153224/78505020-251de900-778e-11ea-9754-e15a317ab04f.png)
+
